@@ -16,7 +16,7 @@ GolosNotify - Оповещения для golos.io
 
 ## Ручная установка:
 
-* загрузите файл по ссылке
+* загрузите файл по ссылке: [GolosNotify.crx](https://github.com/0n0t0le/GolosNotify/releases/download/v1.7/GolosNotify.crx)
 * зайдите в меню расширений браузера chrome://extensions/ 
 * включите режим разработчика 
 * загрузите распакованный файл с расширением 
